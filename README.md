@@ -365,7 +365,7 @@ Possible future improvements include:
 ## 1. Clone Repository
 
 ```bash
-git clone <repository-link>
+git clone [<repository-link>](https://github.com/Hari-jith/AI-vs-Real-Image-Classification)
 ```
 
 ---
